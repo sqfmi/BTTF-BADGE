@@ -1,3 +1,0 @@
-(fp_lib_table
-  (lib (name BTTF)(type KiCad)(uri ${KIPRJMOD}/BTTF.pretty)(options "")(descr ""))
-)
