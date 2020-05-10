@@ -1,7 +1,7 @@
 # BTTF BADGE
 ![BTTF](images/BTTF.gif)
 
-Order PCBs from OSHPARK (Choose After Dark PCBs for Best Results) https://oshpark.com/projects/hdZOu9qd
+Order PCBs from OSHPARK (Choose After Dark PCBs for Best Results): https://oshpark.com/projects/hdZOu9qd
 
 ## Bill of Materials
 | Component               | Quantity | Link                                             |
