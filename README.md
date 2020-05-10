@@ -1,4 +1,6 @@
 # BTTF BADGE
+![BTTF](images/BTTF.gif)
+
 Order PCBs from OSHPARK https://oshpark.com/projects/hdZOu9qd
 
 ## Bill of Materials
