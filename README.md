@@ -8,7 +8,7 @@ Order PCBs from OSHPARK (Choose After Dark PCBs for Best Results): https://oshpa
 |-------------------------|----------|--------------------------------------------------|
 | LED 0603                | 24       |                                                  |
 | S8050 SOT-23            | 8        |                                                  |
-| 10K Resistor Array 0402 | 2        |https://www.digikey.com/product-detail/en/panasonic-electronic-components/EXB-38V103JV/Y9103CT-ND/256604 |
+| 10K Resistor Array 4x0603 | 2        |https://www.digikey.com/product-detail/en/panasonic-electronic-components/EXB-38V103JV/Y9103CT-ND/256604 |
 | 74HC4017 SOIC-16        | 1        |https://www.digikey.com/product-detail/en/texas-instruments/CD74HC4017M96/296-12808-1-ND/475934 |
 | 74LVC1G14 SOT-353       | 1        |https://www.digikey.com/product-detail/en/diodes-incorporated/74LVC1G14SE-7/74LVC1G14SE-7CT-ND/3829423 |
 | 30K Trimmer Pot         | 1        |https://www.digikey.com/product-detail/en/bourns-inc/TC33X-2-303E/TC33X-2-303ECT-ND/3437933 |
